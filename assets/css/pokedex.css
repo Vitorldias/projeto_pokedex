@@ -18,9 +18,9 @@
     background-color: #70c850;
 }
 .grass:hover {
-    background-color: #8dfa65;
+    background-color: #70c850;
     transform: scale(1.05);
-    box-shadow: 1px 1px 10px 2px #8dfa65b2;
+    box-shadow: 1px 1px 10px 2px #70c850b2;
 }
 .fire {
     background-color: #ee7f30;
