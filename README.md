@@ -1,3 +1,8 @@
+## Pokedex 
+
+![preview](./.github/Preview.png)
+
+
 [🔗 Clique aqui para acessar](https://vitorldias.github.io/projeto_pokedex/)
 
  ## 🛠️ Tecnologias
